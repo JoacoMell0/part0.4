@@ -30,10 +30,10 @@ sequenceDiagram
     Note right of browser: The browser processes the retrieved data<br>and renders the notes dynamically
 
 
-
+```
 ---
 
-**Explicación del flujo en el diagrama:**
+### **Explicación del flujo en el diagrama:**
 
 1. **Envío del formulario**:
    - El navegador envía una solicitud `POST` al servidor con los datos del formulario.
