@@ -33,7 +33,7 @@ sequenceDiagram
 
 ---
 
-### **Explicación del flujo en el diagrama:**
+**Explicación del flujo en el diagrama:**
 
 1. **Envío del formulario**:
    - El navegador envía una solicitud `POST` al servidor con los datos del formulario.
